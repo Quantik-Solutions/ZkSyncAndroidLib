@@ -1,0 +1,3 @@
+include ':zksyncsign'
+include ':app'
+rootProject.name = "NumioPay"
